@@ -3,7 +3,7 @@ Javascript
 
 
 ## Enlaces
-<a href="">Ejercicio 1</a> <br>
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA29/Ex1">Ejercicio 1</a> <br>
 
 <a href="">Ejercicio 2</a> <br>
 
