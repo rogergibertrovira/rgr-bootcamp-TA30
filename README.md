@@ -11,14 +11,14 @@ Javascript
 
 <a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA30/Ex4">Ejercicio 4</a> <br>
 
-<a href="">Ejercicio 5</a> <br>
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA30/Ex5">Ejercicio 5</a> <br>
 
-<a href="">Ejercicio 6</a> <br>
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA30/Ex6">Ejercicio 6</a> <br>
 
-<a href="">Ejercicio 7</a> <br>
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA30/Ex7">Ejercicio 7</a> <br>
 
-<a href="">Ejercicio 8</a> <br>
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA30/Ex8">Ejercicio 8</a> <br>
 
-<a href="">Ejercicio 9</a> <br>
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA30/Ex9">Ejercicio 9</a> <br>
 
-<a href="">Ejercicio 10</a> <br>
+<a href="https://rogergibertrovira.github.io/rgr-bootcamp-TA30/Ex10">Ejercicio 10</a> <br>
